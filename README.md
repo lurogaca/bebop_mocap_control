@@ -38,7 +38,7 @@ $ roslaunch bebop_tools joy_teleop.launch
 $source /home/labuser/bebop_ws/devel/setup.bash
 $rosrun bebop_tools pid_tuning.py
 ```
--> take off drone by pressing RB + Y
+-> Take off drone by pressing RB + Y
 
 -> Initialize program by pressing 's' + enter 
 
