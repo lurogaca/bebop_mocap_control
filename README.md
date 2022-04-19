@@ -7,7 +7,7 @@ automatic control of bebop - optitrack MCS
 
 -> Connect to the Optitrack network  
 
--> Connect to the drone
+-> Connect to the drone wifi network
 
 **Open a new terminal : Run ROS**
 
