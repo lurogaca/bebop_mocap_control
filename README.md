@@ -2,6 +2,7 @@
 automatic control of bebop - optitrack MCS
 
 # PID Controller 
+* In this program, the drone will start at any location and navigate toward the origin (0,0) 
 * In order to run the Autonomous Program, two networks are required in order to connect to the motion capture system and drone, plug in USB wifi antena ( we used LYNEC 150 Mbps)
 
 -> Connect to the Optitrack network  
