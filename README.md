@@ -24,7 +24,7 @@ $ roslaunch mocap_optitrack mocap.launch
 
 ```
 $ source /home/labuser/bebop_ws/devel/setup.bash
-$ roslaunch bebop_node.launch
+$ roslaunch bebop_driver bebop_node.launch
 ```
 **Open a new terminal : Launch controller**
 
